@@ -22,3 +22,4 @@ Whether it's crafting low-latency systems in Rust, designing cloud-native backen
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/daniel-boros-b86a5373/)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=white)](mailto:danicxx@gmail.com)
+[![Rust-DD](https://img.shields.io/badge/Rust--DD-black?logo=rust&logoColor=white)](https://github.com/rust-dd/)
