@@ -12,6 +12,7 @@ Whether it's crafting low-latency systems in Rust, designing cloud-native backen
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=Google-Cloud)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
