@@ -1,5 +1,7 @@
 # Hello, I'm Daniel! 👋
 
+Rust Core Engineer at Qdrant | Part-time Lead Quant Engineer at a Swiss hedge fund startup
+
 I’m a Rust-focused developer and researcher with a passion for combining high-performance systems programming with the theoretical depth of AI and financial mathematics. My background bridges applied software engineering and academic research, from building low-latency systems in Rust to working on advanced models in stochastic analysis.
 
 Academically, my research focuses on **fractional stochastic processes, rough path theory, and Malliavin calculus**, with applications in financial modelling, stochastic simulation, and AI-driven quantitative methods. I’m especially interested in how these mathematical frameworks can be used to model complex market dynamics and generate realistic stochastic data for deep learning systems — **...but of course, all implementations somehow end up in Rust 🦀**.
