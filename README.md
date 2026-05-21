@@ -1,21 +1,19 @@
 # Hello, I'm Daniel! 👋
 
-I'm a Rust-focused developer and researcher with a passion for combining high-performance systems programming with the theoretical depth of AI and financial mathematics. My background bridges applied software engineering and academic research — from building web and mobile apps using React, GraphQL, and Google Cloud, to working on advanced models in stochastic analysis.
+I’m a Rust-focused developer and researcher with a passion for combining high-performance systems programming with the theoretical depth of AI and financial mathematics. My background bridges applied software engineering and academic research, from building low-latency systems in Rust to working on advanced models in stochastic analysis.
 
-Academically, I specialize in **Stochastic Processes**, **Malliavin Calculus**, and **Financial Modelling**, with research focused on parameter estimation in **Heston and rough Heston models**, **fractional Ornstein–Uhlenbeck processes**, and the application of **Stochastic Correlation Processes**. I’ve also developed efficient techniques to generate fractional stochastic data for training deep neural networks.
+Academically, my research focuses on **fractional stochastic processes, rough path theory, and Malliavin calculus**, with applications in financial modelling, stochastic simulation, and AI-driven quantitative methods. I’m especially interested in how these mathematical frameworks can be used to model complex market dynamics and generate realistic stochastic data for deep learning systems — **...but of course, all implementations somehow end up in Rust 🦀**.
 
-Whether it's crafting low-latency systems in Rust, designing cloud-native backends, or exploring the mathematics behind market dynamics, I thrive at the intersection of theory and real-world impact.
+Whether it’s crafting performant Rust systems, designing scalable infrastructure, or exploring the mathematics behind market behaviour, I thrive at the intersection of theory and real-world impact.
 
 ## 🛠 Technical Skills
 
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=Google-Cloud)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
