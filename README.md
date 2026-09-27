@@ -1,6 +1,6 @@
 # Hello, I'm Daniel! 👋
 
-Rust Core Engineer at Qdrant | Part-time Lead Quant Engineer at a Swiss hedge fund startup
+Rust Core Engineer at Qdrant
 
 I’m a Rust-focused developer and researcher with a passion for combining high-performance systems programming with the theoretical depth of AI and financial mathematics. My background bridges applied software engineering and academic research, from building low-latency systems in Rust to working on advanced models in stochastic analysis.
 
